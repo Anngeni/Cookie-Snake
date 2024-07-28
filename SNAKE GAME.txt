@@ -1,0 +1,11 @@
+SNAKE GAME
+
+changing direction : -initially with quadratic Bezier curve to illustrate winding snake around corner (perhaps)
+-keys change direction
+-timer, every one second update with the snake moving forward by one block (eventually quicker updates, smaller steps)
+-sound effect from apple eaten
+-snake changes size (adding one unit line to tail)
+-if snake occupies a square in grid or not BOOLEAN
+-direction of snake must be noted: cant go back on snake
+-horizontal snake can only go up and down
+-vertical snake only left or right 
